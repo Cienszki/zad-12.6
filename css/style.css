@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css?family=Delius+Unicase|Itim|Sedgwick+Ave|Swanky+and+Moo+Moo|Walter+Turncoat");
+body {
+  background: linear-gradient(to left, #C06C84, #6C5B7B, #355C7D);
+  color: white;
+  text-align: center;
+}
+
+h1 {
+  padding: 50px;
+  font-size: 50px;
+  font-family: 'Sedgwick Ave', cursive;
+}
+
+#country-name {
+  margin: 20px;
+  height: 30px;
+  width: 500px;
+  color: black;
+  text-align: center;
+  font-family: 'Swanky and Moo Moo', cursive;
+  font-size: 30px;
+}
+
+#search {
+  background-color: #7bed9f;
+  margin-bottom: 50px;
+  font-family: 'Delius Unicase', cursive;
+}
+
+#countries {
+  list-style-type: none;
+  text-align: center;
+  padding: 0;
+  font-family: 'Itim', cursive;
+}
+
+li {
+  padding: 0.5em;
+}
+
+h2 {
+  font-family: 'Walter Turncoat', cursive;
+}
+/*# sourceMappingURL=style.css.map */
